@@ -5,7 +5,7 @@ Durante este proyecto se trabajarán conceptos fundamentales relacionados con ma
 
 ---
 
-# Instrucciones para estudiantes
+# Instrucciones
 
 ## 1. Realizar un fork del repositorio
 
